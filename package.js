@@ -18,7 +18,7 @@ Package.onUse(function(api) {
     'nova:lib@0.26.5-nova',
     'nova:base-components@0.26.5-nova',
     'xavcz:nova-slack@0.1.0',
-    'xavcz:nova-post-by-feed0.26.5-nova-patch-1',
+    'xavcz:nova-post-by-feed',
   ]);
 
   api.addFiles([
